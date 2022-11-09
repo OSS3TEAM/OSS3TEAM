@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/105197546/200790614-6b53be47-786d-490b-a58c-c257bfa05039.png" height=100% width=100%>
+<img src="https://user-images.githubusercontent.com/105197546/200792783-b21225a3-346a-4466-96ef-512c392c7a58.png" height=100% width=100%>
 </p>
+
 
 <h1 align="center">Welcome to OSS3TEAM</h1>
 
