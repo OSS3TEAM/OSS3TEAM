@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/114343532/200781605-486a0f18-c44f-4a5b-8cb4-b8dd7930bb8b.png" height="350" width="1000" >
+<img src="https://user-images.githubusercontent.com/105197546/200790614-6b53be47-786d-490b-a58c-c257bfa05039.png" height=100% width=100%>
 </p>
 
 <h1 align="center">Welcome to OSS3TEAM</h1>
