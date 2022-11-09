@@ -4,9 +4,13 @@
 
 <h1 align="center">Welcome to OSS3TEAM</h1>
 
-
-
-
+|학생|학과|깃허브주소|
+|------|---|---|
+|박재선|인공지능소프트웨어|https://github.com/pjsun2|
+|최인환|인공지능소프트웨어|https://github.com/Inhwani|
+|배수한|인공지능소프트웨어|https://github.com/uh004|
+|김민기|인공지능소프트웨어|https://github.com/kmk0909|
+|소유빈|생명공학과|https://github.com/kanujoa|
 
 
 
