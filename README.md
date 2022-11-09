@@ -10,7 +10,7 @@
 |최인환|인공지능소프트웨어|https://github.com/Inhwani|
 |배수한|인공지능소프트웨어|https://github.com/uh004|
 |김민기|인공지능소프트웨어|https://github.com/kmk0909|
-|소유빈|생명공학과|https://github.com/kanujoa|
+|소유빈|생명화학공학|https://github.com/kanujoa|
 
 
 
