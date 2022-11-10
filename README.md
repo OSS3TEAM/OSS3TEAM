@@ -1,9 +1,6 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/105197546/200792783-b21225a3-346a-4466-96ef-512c392c7a58.png" height=100% width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=OSS3TEAM&fontAlign=50&fontAlignY=40&color=gradient" height=100% width=100%>
 </p>
-
-
-<h1 align="center">Welcome to OSS3TEAM</h1>
 
 |학생|학과|깃허브주소|
 |------|---|---|
@@ -15,9 +12,12 @@
 
 
 
-
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oss3team)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oss3team)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oss3team)
 ### Hi there 👋
 **OSS3TEAM/OSS3TEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
