@@ -2,17 +2,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=OSS3TEAM&fontAlign=50&fontAlignY=40&color=gradient" height=100% width=100%>
 </p>
 
+</br>
+
 |학생|학과|깃허브주소|
-|------|---|---|
+|:------:|:-:|:---:|
 |👨박재선|인공지능소프트웨어|https://github.com/pjsun2|
 |👨최인환|인공지능소프트웨어|https://github.com/Inhwani|
 |👨배수한|인공지능소프트웨어|https://github.com/uh004|
 |👨김민기|인공지능소프트웨어|https://github.com/kmk0909|
 |👩소유빈|생명화학공학|https://github.com/kanujoa|
 
+</br></br></br></br>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OSS3TEAM&hide_border=true&radius=10&bg_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oss3team)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oss3team)](https://git.io/streak-stats)
