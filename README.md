@@ -5,7 +5,7 @@
 </br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OSS3TEAM&hide_border=true&radius=10&bg_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align = "center">
 
 |학번|학생|학과|깃허브주소|
 |:------:|:-:|:---:|:---:|
@@ -15,7 +15,7 @@
 |20221668|👨김민기|인공지능소프트웨어|https://github.com/kmk0909|
 |20211547|👩소유빈|생명화학공학|https://github.com/kanujoa|
 
-
+</div>
 
 
 <!--
