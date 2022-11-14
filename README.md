@@ -4,7 +4,7 @@
 
 </br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OSS3TEAM&hide_border=true&radius=10&bg_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align = "center">
 
 |학번|학생|학과|깃허브주소|
@@ -17,7 +17,7 @@
 
 </div>
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OSS3TEAM&hide_border=true&radius=10&bg_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oss3team)](https://git.io/streak-stats)
