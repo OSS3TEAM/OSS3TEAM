@@ -17,7 +17,7 @@
 
  </br></br> 
   
-# [OSS_QA_3TEAM_REPORT](https://github.com/OSS3TEAM/DMU_OSS.git) <h3>↓Click↓</h3>
+# OSS-QA-3TEAM_REPORT <h3> ↓ Click ↓ </h3>
  
  <a href="https://github.com/OSS3TEAM/DMU_OSS.git"><img src="https://user-images.githubusercontent.com/114343532/202118021-970dbc76-63ec-4fed-a911-74220045ce79.png"/></a>
 
@@ -41,6 +41,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oss3team)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oss3team)
+
 ### Hi there 👋
 **OSS3TEAM/OSS3TEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
