@@ -17,7 +17,7 @@
 
  </br></br> 
   
-# OSS-QA-3 Team 작업 구상
+# [OSS_QA_3TEAM_REPORT](https://github.com/OSS3TEAM/DMU_OSS.git) <h3>↓Click↓</h3>
  
  <a href="https://github.com/OSS3TEAM/DMU_OSS.git"><img src="https://user-images.githubusercontent.com/114343532/202118021-970dbc76-63ec-4fed-a911-74220045ce79.png"/></a>
 
