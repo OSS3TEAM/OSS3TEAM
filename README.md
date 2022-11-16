@@ -17,11 +17,11 @@
 
  </br></br> 
   
+# OSS-QA-3 Team 작업 구상
+ 
+ <a href="https://github.com/OSS3TEAM/DMU_OSS.git"><img src="https://user-images.githubusercontent.com/114343532/202118021-970dbc76-63ec-4fed-a911-74220045ce79.png"/></a>
 
-
-
-
-
+<!--
 
 ![European Union Timeline](https://user-images.githubusercontent.com/114343532/202118021-970dbc76-63ec-4fed-a911-74220045ce79.png)
 
@@ -32,16 +32,9 @@
   
 ### [OSS_오픈소스소프트웨어_보고서](https://github.com/OSS3TEAM/DMU_OSS.git)
   
-  -----------------------------------------------------------------------
   
-
-
-</br></br>
-
 </div>
 
-
-<!--
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OSS3TEAM&hide_border=true&radius=10&bg_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
