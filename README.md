@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=OSS3TEAM&animation=fadeIn&color=gradient" height=100% width=100%>
 </p>
-</br>
 
 <div align = "center">
    <h3>Hi :grey_exclamation: We are the :dizzy: Dongyang Mirae Univ. :dizzy: students who're taking a lecture of
