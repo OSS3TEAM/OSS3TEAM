@@ -1,9 +1,38 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=OSS3TEAM&fontAlign=50&fontAlignY=40&color=gradient" height=100% width=100%>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=OSS3TEAM&animation=fadeIn&color=gradient" height=100% width=100%>
 </p>
-
 </br>
 
+<div align = "center">
+   <h3>Hi :grey_exclamation: We are the :dizzy: Dongyang Mirae Univ. :dizzy: students who're taking a lecture of
+        <a href = "http://www.dmu.ac.kr/sites/dmu_23259/index.do">
+            <img src="https://user-images.githubusercontent.com/99963066/202725653-69f8322b-ab8c-4485-b4f8-d4fba5dbcd5a.png" alt="image"width="110" height="17">
+        </a>
+        </br></br>
+        We are currently learning  
+        <a href = "https://git-scm.com/">
+            <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" height="25" alt="Github">
+        </a>
+        &
+        <a href = "https://github.com">
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" height="25" alt="Git">
+        </a>
+   </h3>
+</div>
+</br>
+
+<div align = "center">
+    <a href="https://github.com/OSS3TEAM">
+        <img src="https://github-readme-stats.vercel.app/api?username=OSS3TEAM&amp;theme=default&amp;show_icons=true" alt="OSS 3 TEAM's Github Stats">
+    </a>
+</div>
+<br/>
+
+<div align = "center">
+
+### :sparkles: members :sparkles:
+ 
+</div>
 
 <div align = "center">
 
@@ -17,7 +46,7 @@
 
  </br></br> 
   
-# OSS-QA-3TEAM_REPORT <h3> ↓ Click ↓ </h3>
+# 📑 OSS-QA-3TEAM_REPORT <h3> ↓ Click ↓ </h3>
  
  <a href="https://github.com/OSS3TEAM/DMU_OSS.git"><img src="https://user-images.githubusercontent.com/114343532/202118021-970dbc76-63ec-4fed-a911-74220045ce79.png"/></a>
 
