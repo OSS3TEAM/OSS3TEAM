@@ -58,7 +58,7 @@
     <td>추가학습(강의내용 재확인)</td>
   </tr>
    <tr align="center">
-    <td colspan="2">교사 역활</td>
+    <td colspan="2">교사 역할</td>
     <td>지식전달 + 학습촉진</td>
     <td>지식전달</td>
   </tr>
