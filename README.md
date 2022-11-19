@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=OSS3TEAM&animation=fadeIn&color=gradient" height=100% width=100%>
+<img src="https://user-images.githubusercontent.com/105197524/202680610-2add2064-b354-416a-a5fc-efd8fa903ecc.png" height=60% width=80%>
 </p>
 
 <div align = "center">
@@ -27,11 +27,65 @@
 </div>
 <br/>
 
+<div align="center">
+
+## 📝오픈소프트웨어 수업 소개
+
+**❗사전(pre-class)에 제시된 동영상과 자료를 통한 예습❗**<br>
+**❗본 수업(in-class)에선 예습 발표, 제시된 문제 해결❗**
+
+<br>
+<table align="center">
+  <tr align="center">
+    <th colspan="2">구분</th>
+    <th>플립러닝(Flipped Learning)</th>
+    <th>전통적(Lecture-based Learning)</th>
+  </tr>
+  <tr align="center">
+    <td rowspan="3">수업</td>
+    <td>이전</td>
+    <td>온라인을 통한 선행학습</td>
+     <td>자율학습</td>
+  </tr>
+  <tr align="center">
+    <td>도중</td>
+    <td>토론, 티칭-발표, 프로젝트, 그룹활동 등</td>
+    <td>강의</td>
+  </tr>
+  <tr align="center">
+    <td>이후</td>
+    <td>자율학습</td>
+    <td>추가학습(강의내용 재확인)</td>
+  </tr>
+   <tr align="center">
+    <td colspan="2">교사 역활</td>
+    <td>지식전달 + 학습촉진</td>
+    <td>지식전달</td>
+  </tr>
+   <tr align="center">
+    <td rowspan="2">특징</td>
+    <td>장점</td>
+    <td>심화학습 가능</td>
+    <td>지식전달 용이</td>
+  </tr>
+  <tr align="center">
+    <td>단점</td>
+    <td>수업준비 부담</td>
+    <td>심화학습 어려움</td>
+  </tr>
+</table>
+
+</div>
+
+<br><br>
+
 <div align = "center">
 
 ### :sparkles: members :sparkles:
  
 </div>
+
+
 
 <div align = "center">
 
