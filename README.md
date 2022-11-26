@@ -124,6 +124,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oss3team)
 
+THANKS YOU FOR WHTCHING
+
 ### Hi there 👋
 **OSS3TEAM/OSS3TEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
